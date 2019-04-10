@@ -37,7 +37,11 @@ I used ols function in order to estimate the regression equation and examine if 
 
 The linear regression model presented above aims to examine the association between major depression diagnosis in the last 12 months (categorical explanatory variable) and cannabis dependence symptoms (quantitative response variable), among U.S. adults aged between 18 and 30 years old. The number of observations that had valid data on both the response and explanatory variables and were therefore included in this analysis, was 2,412. The F-statistic is 60.34 and the P-value is 1.17e-14 (written in scientific notation). The P-value is considerably less than our alpha level of 0.05, which indicates that we can reject the null hypothesis and conclude that major depression diagnosis is significantly associated with cannabis dependence symptoms. In addition, the coefficient for major depression diagnosis is 0.38, and the intercept is 0.39. The P-value for our explanatory variable, in association with the response variable is p<0.0001 and the R-squared value, which is the proportion of the variance in cannabis dependence symptoms that can be explained by the major depression diagnosis, is significantly low at 2.4%.
 
-#### The regression equation of this model is:
+### Model Regression Equation
+![eq](https://github.com/Gkontopodis/Regression-Modelling-in-Practice/blob/master/Assignment%20Week%202/Output%20Analysis/eq.gif)
 
+### Bar Chart
+![graph](https://github.com/Gkontopodis/Regression-Modelling-in-Practice/blob/master/Assignment%20Week%202/Output%20Analysis/out8.png)
 
+The bivariate bar graph presented above illustrates the association between major depression, diagnosed in the last 12 months (explanatory variable) and cannabis dependence symptoms (response variable), in U.S. adults aged from 18 to 30 years old. The “No” category of major depression diagnosis is coded with “0” and the “Yes” is coded with “1”. As we can see, the individuals diagnosed with major depression in the last 12 months appeared to have marginally double cannabis dependence symptoms (mean = 0.77), compared to those who did not meet the criteria for this disorder (mean = 0.39). Therefore, major depression diagnosis is significantly associated with cannabis dependence symptoms. 
 
