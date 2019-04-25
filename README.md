@@ -1,5 +1,5 @@
 # Regression Modelling in Practice
-This is a part of my weekly assignments for the third course of Data Analysis and Interpretation Specialization, offered by Wesleyan University on Coursera. For the grading purposes of the course, the assignments were initially uploaded on Tumblr.
+This is an introduction for the third course of Data Analysis and Interpretation Specialization, offered by Wesleyan University on Coursera. For the grading purposes of the course, the assignments were initially uploaded on Tumblr.
 
 This course focuses on one of the most important tools in your data analysis arsenal: regression analysis. It is an attempt to examine multiple predictors, identify confounding variables, interpret regression coefficients and use regression diagnostic plots, working on existing data (U.S. National Epidemiological Survey on Alcohol and Related Conditions-NESARC).
 
